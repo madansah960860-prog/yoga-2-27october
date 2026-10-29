@@ -22,12 +22,13 @@
   <link rel="stylesheet" href="assets/css/style.css">
   <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://asanaatlas.us/#org", "name": "Asana Atlas", "url": "https://asanaatlas.us/", "logo": "https://asanaatlas.us/assets/img/favicon.svg", "email": "hello@asanaatlas.us"}, {"@type": "WebPage", "@id": "https://asanaatlas.us/", "url": "https://asanaatlas.us/", "name": "Asana Atlas | A Field Guide to Yoga Poses, Breathwork & Practice", "description": "Asana Atlas is a free photographic guide to 33 yoga poses, 10 styles, breathwork, meditation and yoga philosophy, with live one-to-one Professional and Expert online sessions.", "isPartOf": {"@type": "WebSite", "name": "Asana Atlas", "url": "https://asanaatlas.us/"}, "publisher": {"@id": "https://asanaatlas.us/#org"}}]}</script>
 
-  <!-- Privacy-friendly analytics by Plausible -->
-<script async src="https://plausible.io/js/pa-p7iEeoAqKGwTzA37J2bmS.js"></script>
+<!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-X_sJfaneynyCpABhGNjB5.js"></script>
 <script>
   window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
   plausible.init()
 </script>
+
 
 
 
